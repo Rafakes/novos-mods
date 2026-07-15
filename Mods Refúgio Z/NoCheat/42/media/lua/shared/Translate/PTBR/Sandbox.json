@@ -1,0 +1,12 @@
+{
+  "Sandbox_NoCheat": "NoCheat",
+  "Sandbox_NoCheat_Enabled": "Ativar NoCheat",
+  "Sandbox_NoCheat_Enabled_tooltip": "Liga ou desliga o logger focado em evidencias de hack.",
+  "Sandbox_NoCheat_InsertWarnCount": "Alertas de tecla Insert",
+  "Sandbox_NoCheat_InsertWarnCount_tooltip": "Quantidade de registros da tecla Insert em cinco minutos para virar alerta alto.",
+  "Sandbox_NoCheat_TeleportWarnDistance": "Distancia de aviso de teleporte",
+  "Sandbox_NoCheat_TeleportWarnDistance_tooltip": "Distancia minima em tiles entre amostras do servidor antes de registrar salto de posicao.",
+  "Sandbox_NoCheat_SkillHighTotalDelta": "Delta alto de habilidade",
+  "Sandbox_NoCheat_SkillHighTotalDelta_tooltip": "Total de niveis de habilidade ganhos entre amostras do servidor para virar severidade alta."
+}
+
