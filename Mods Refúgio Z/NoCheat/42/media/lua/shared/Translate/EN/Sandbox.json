@@ -1,0 +1,12 @@
+{
+  "Sandbox_NoCheat": "NoCheat",
+  "Sandbox_NoCheat_Enabled": "Enable NoCheat",
+  "Sandbox_NoCheat_Enabled_tooltip": "Turns the focused hack evidence logger on or off.",
+  "Sandbox_NoCheat_InsertWarnCount": "Insert key alert count",
+  "Sandbox_NoCheat_InsertWarnCount_tooltip": "How many Insert key reports within five minutes become a high severity alert.",
+  "Sandbox_NoCheat_TeleportWarnDistance": "Teleport warning distance",
+  "Sandbox_NoCheat_TeleportWarnDistance_tooltip": "Minimum tile distance between server samples before a movement jump is logged.",
+  "Sandbox_NoCheat_SkillHighTotalDelta": "High skill level delta",
+  "Sandbox_NoCheat_SkillHighTotalDelta_tooltip": "Total skill levels gained between server samples before the event becomes high severity."
+}
+
