@@ -1,0 +1,41 @@
+VERSION = 1,
+
+option NoCheat.Enabled
+{
+    type = boolean,
+    default = true,
+    page = NoCheat,
+    translation = NoCheat_Enabled,
+}
+
+option NoCheat.InsertWarnCount
+{
+    type = integer,
+    min = 1,
+    max = 10,
+    default = 3,
+    page = NoCheat,
+    translation = NoCheat_InsertWarnCount,
+}
+
+option NoCheat.TeleportWarnDistance
+{
+    type = integer,
+    min = 50,
+    max = 1000,
+    default = 180,
+    page = NoCheat,
+    translation = NoCheat_TeleportWarnDistance,
+}
+
+option NoCheat.SkillHighTotalDelta
+{
+    type = integer,
+    min = 2,
+    max = 20,
+    default = 6,
+    page = NoCheat,
+    translation = NoCheat_SkillHighTotalDelta,
+}
+
+
